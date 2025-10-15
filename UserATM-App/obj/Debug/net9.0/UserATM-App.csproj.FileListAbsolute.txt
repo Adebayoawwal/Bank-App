@@ -1,0 +1,14 @@
+C:\Users\USER\RiderProjects\UserATM-App\UserATM-App\bin\Debug\net9.0\UserATM-App.exe
+C:\Users\USER\RiderProjects\UserATM-App\UserATM-App\bin\Debug\net9.0\UserATM-App.deps.json
+C:\Users\USER\RiderProjects\UserATM-App\UserATM-App\bin\Debug\net9.0\UserATM-App.runtimeconfig.json
+C:\Users\USER\RiderProjects\UserATM-App\UserATM-App\bin\Debug\net9.0\UserATM-App.dll
+C:\Users\USER\RiderProjects\UserATM-App\UserATM-App\bin\Debug\net9.0\UserATM-App.pdb
+C:\Users\USER\RiderProjects\UserATM-App\UserATM-App\obj\Debug\net9.0\UserATM-App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\RiderProjects\UserATM-App\UserATM-App\obj\Debug\net9.0\UserATM-App.AssemblyInfoInputs.cache
+C:\Users\USER\RiderProjects\UserATM-App\UserATM-App\obj\Debug\net9.0\UserATM-App.AssemblyInfo.cs
+C:\Users\USER\RiderProjects\UserATM-App\UserATM-App\obj\Debug\net9.0\UserATM-App.csproj.CoreCompileInputs.cache
+C:\Users\USER\RiderProjects\UserATM-App\UserATM-App\obj\Debug\net9.0\UserATM-App.dll
+C:\Users\USER\RiderProjects\UserATM-App\UserATM-App\obj\Debug\net9.0\refint\UserATM-App.dll
+C:\Users\USER\RiderProjects\UserATM-App\UserATM-App\obj\Debug\net9.0\UserATM-App.pdb
+C:\Users\USER\RiderProjects\UserATM-App\UserATM-App\obj\Debug\net9.0\UserATM-App.genruntimeconfig.cache
+C:\Users\USER\RiderProjects\UserATM-App\UserATM-App\obj\Debug\net9.0\ref\UserATM-App.dll
