@@ -12,3 +12,4 @@ C:\Users\USER\RiderProjects\UserATM-App\UserATM-App\obj\Debug\net9.0\refint\User
 C:\Users\USER\RiderProjects\UserATM-App\UserATM-App\obj\Debug\net9.0\UserATM-App.pdb
 C:\Users\USER\RiderProjects\UserATM-App\UserATM-App\obj\Debug\net9.0\UserATM-App.genruntimeconfig.cache
 C:\Users\USER\RiderProjects\UserATM-App\UserATM-App\obj\Debug\net9.0\ref\UserATM-App.dll
+C:\Users\USER\RiderProjects\UserATM-App\UserATM-App\obj\Debug\net9.0\UserATM-App.sourcelink.json
